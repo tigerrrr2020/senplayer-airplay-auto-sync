@@ -1,0 +1,4 @@
+interface:
+  display_name: "SenPlayer AirPlay 自动同步"
+  short_description: "自动切换 SenPlayer 延迟并可选安装快捷指令"
+  default_prompt: "使用 $senplayer-airplay-auto-sync 安装 AirPort/AirPlay 延迟自动切换，并可选添加手动快捷指令。"
